@@ -1,13 +1,6 @@
 ﻿# Lava Labs home assignment
 
-## Self Introduction
-
-Hello, my name is Ben Goldschmidt, I’m 29, originally Swedish, lived in Israel for most of my life, and currently split my time between Israel and the US, which I’m in the process of moving to (following my American fiancé 😊) starting the green card process.
-
 I would like to thank you for the opportunity working on the exercise and learning new technologies, as I didn't have prior experience with gRPC or Cosmos.
-
-A bit about my technical background - I have been a software engineer at Microsoft for the last 4 years, building a new cloud product called Cloud for Financial Services, serving banks like HSBC using a wide range of technologies (C#, .NET, React, Microsoft CRM, CI/CD, etc.). I’ve recently designed, built, and researched an algorithm for leveraging arbitrage opportunities in crypto exchanges spot trading, allowing anyone to connect and leverage the algorithm and preferred coins to their favorite exchange.
-I was discharged from the army as a Captain, serving in multiple stations and developing novel combat doctrines between the Air Force and Navy, have a bachelor’s degree in Computer Science from the Israel Institute of Technology (Technion) and am leading a big collaboration between Microsoft and a non-profit, helping immigrants integrate in Israel’s tech ecosystem.
 
 ## High level design
 
